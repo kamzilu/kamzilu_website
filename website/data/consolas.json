@@ -1,0 +1,74 @@
+{
+  "nintendo-switch-oled": {
+    "name": "Nintendo Switch OLED",
+    "image": "/img/consolas/nintendo/nintendo-switch-oled-white-joy-con-std-edition-internacional.webp",
+    "description": "Nintendo Switch OLED con pantalla vibrante y sonido mejorado. Ideal para gaming en casa o en movimiento.",
+    "lastUpdated": "2025-05-28T14:35:00",
+    "prices": [
+      { "store": "Amazon", "price": 349, "link": "https://amazon.com", "logo": "/img/resources/stores/amazon-com-mx-logo.webp" },
+      { "store": "Walmart", "price": 359, "link": "https://walmart.com", "logo": "/img/resources/stores/walmart_logo.webp" },
+      { "store": "MercadoLibre", "price": 365, "link": "https://mercadolibre.com", "logo": "/img/resources/stores/mercado-libre-logo.webp" },
+      { "store": "Liverpool", "price": 369, "link": "https://liverpool.com", "logo": "/img/resources/stores/liverpool_logo.webp" }
+    ]
+  },
+  "nintendo-switch-lite": {
+    "name": "Nintendo Switch Lite",
+    "image": "/img/consolas/nintendo/nintendo-switch-lite-grey.webp",
+    "description": "Nintendo Switch Lite, compacto y portátil, perfecto para juegos en cualquier lugar. Compatible con todos los títulos de Switch en modo portátil.",
+    "lastUpdated": "2025-05-28T14:35:00",
+    "prices": [
+      { "store": "Amazon", "price": 199, "link": "https://amazon.com", "logo": "/img/resources/stores/amazon-com-mx-logo.webp" },
+      { "store": "Walmart", "price": 209, "link": "https://walmart.com", "logo": "/img/resources/stores/walmart_logo.webp" },
+      { "store": "MercadoLibre", "price": 215, "link": "https://mercadolibre.com", "logo": "/img/resources/stores/mercado-libre-logo.webp" },
+      { "store": "Liverpool", "price": 219, "link": "https://liverpool.com", "logo": "/img/resources/stores/liverpool_logo.webp" }
+    ]
+  },
+  "playstation-5-slim": {
+    "name": "Playstation 5 Slim",
+    "image": "/img/consolas/playstation/ps5-slim-pack-2-juegos-std.webp",
+    "description": "Playstation 5 Slim, con diseño más compacto, potencia de última generación y compatibilidad total con juegos PS5 y PS4.",
+    "lastUpdated": "2025-05-28T14:35:00",
+    "prices": [
+      { "store": "Amazon", "price": 499, "link": "https://amazon.com", "logo": "/img/resources/stores/amazon-com-mx-logo.webp" },
+      { "store": "Walmart", "price": 519, "link": "https://walmart.com", "logo": "/img/resources/stores/walmart_logo.webp" },
+      { "store": "MercadoLibre", "price": 525, "link": "https://mercadolibre.com", "logo": "/img/resources/stores/mercado-libre-logo.webp" },
+      { "store": "Liverpool", "price": 529, "link": "https://liverpool.com", "logo": "/img/resources/stores/liverpool_logo.webp" }
+    ]
+  },
+  "playstation-5-pro": {
+    "name": "Playstation 5 PRO",
+    "image": "/img/consolas/playstation/playstation-5-pro-digital.webp",
+    "description": "Playstation 5 PRO con potencia mejorada, resolución 4K y rendimiento optimizado para experiencias gaming de última generación.",
+    "lastUpdated": "2025-05-28T14:35:00",
+    "prices": [
+      { "store": "Amazon", "price": 599, "link": "https://amazon.com", "logo": "/img/resources/stores/amazon-com-mx-logo.webp" },
+      { "store": "Walmart", "price": 619, "link": "https://walmart.com", "logo": "/img/resources/stores/walmart_logo.webp" },
+      { "store": "MercadoLibre", "price": 625, "link": "https://mercadolibre.com", "logo": "/img/resources/stores/mercado-libre-logo.webp" },
+      { "store": "Liverpool", "price": 629, "link": "https://liverpool.com", "logo": "/img/resources/stores/liverpool_logo.webp" }
+    ]
+  },
+  "xbox-series-x": {
+    "name": "Xbox Series X",
+    "image": "/img/consolas/xbox/xbox-series-x-1tb-internacional.webp",
+    "description": "Xbox Series X con rendimiento ultra rápido, gráficos en 4K y compatibilidad con generaciones anteriores para la mejor experiencia de juego.",
+    "lastUpdated": "2025-05-28T14:35:00",
+    "prices": [
+      { "store": "Amazon", "price": 499, "link": "https://amazon.com", "logo": "/img/resources/stores/amazon-com-mx-logo.webp" },
+      { "store": "Walmart", "price": 519, "link": "https://walmart.com", "logo": "/img/resources/stores/walmart_logo.webp" },
+      { "store": "MercadoLibre", "price": 525, "link": "https://mercadolibre.com", "logo": "/img/resources/stores/mercado-libre-logo.webp" },
+      { "store": "Liverpool", "price": 529, "link": "https://liverpool.com", "logo": "/img/resources/stores/liverpool_logo.webp" }
+    ]
+  },
+  "xbox-series-s": {
+    "name": "Xbox Series S",
+    "image": "/img/consolas/xbox/xbox-series-s-512gb-internacional.webp",
+    "description": "Xbox Series S, la opción digital de nueva generación, con alto rendimiento y diseño compacto. Perfecta para jugar a tus títulos favoritos.",
+    "lastUpdated": "2025-05-28T14:35:00",
+    "prices": [
+      { "store": "Amazon", "price": 299, "link": "https://amazon.com", "logo": "/img/resources/stores/amazon-com-mx-logo.webp" },
+      { "store": "Walmart", "price": 309, "link": "https://walmart.com", "logo": "/img/resources/stores/walmart_logo.webp" },
+      { "store": "MercadoLibre", "price": 315, "link": "https://mercadolibre.com", "logo": "/img/resources/stores/mercado-libre-logo.webp" },
+      { "store": "Liverpool", "price": 319, "link": "https://liverpool.com", "logo": "/img/resources/stores/liverpool_logo.webp" }
+    ]
+  }
+}

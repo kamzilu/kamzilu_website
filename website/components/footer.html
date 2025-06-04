@@ -1,0 +1,13 @@
+<footer class="footer">
+  <div class="footer-container">
+    <p>© <span id="year"></span> Kamzilu. Todos los derechos reservados.</p>
+    <p>Sitio desarrollado por Kamzilu</p>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const yearSpan = document.getElementById("year");
+      if (yearSpan) yearSpan.textContent = new Date().getFullYear();
+    });
+  </script>
+</footer>
